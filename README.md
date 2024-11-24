@@ -1,5 +1,4 @@
-# Project_3-Spam-Mail-Prediction
-
+# SpamGuard: Intelligent Email Classification
 ![Spam Mail Prediction Machine Learning Model project title image with mail icon and spam warning symbol](https://github.com/user-attachments/assets/6aeedd84-1901-4830-acc6-9b59f61d49c3)
 
 This project focuses on building a machine learning model to identify spam emails accurately. Leveraging natural language processing (NLP) techniques and popular classification algorithms, the system aims to classify email messages as either "Spam Mail" or "Ham Mail."
